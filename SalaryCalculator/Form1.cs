@@ -28,5 +28,10 @@ namespace SalaryCalculator
 
             MessageBox.Show(anEmployee.Name + " your salary is " + anEmployee.showSalary());
         }
+
+        private void Test()
+        {
+            
+        }
     }
 }
