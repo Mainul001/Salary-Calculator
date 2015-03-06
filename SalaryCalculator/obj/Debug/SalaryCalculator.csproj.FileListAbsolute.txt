@@ -1,0 +1,9 @@
+F:\luniam_workspace\SalaryCalculator\SalaryCalculator\bin\Debug\SalaryCalculator.exe.config
+F:\luniam_workspace\SalaryCalculator\SalaryCalculator\bin\Debug\SalaryCalculator.exe
+F:\luniam_workspace\SalaryCalculator\SalaryCalculator\bin\Debug\SalaryCalculator.pdb
+F:\luniam_workspace\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.csprojResolveAssemblyReference.cache
+F:\luniam_workspace\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.Form1.resources
+F:\luniam_workspace\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.Properties.Resources.resources
+F:\luniam_workspace\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.csproj.GenerateResource.Cache
+F:\luniam_workspace\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.exe
+F:\luniam_workspace\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.pdb
